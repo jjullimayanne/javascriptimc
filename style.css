@@ -2,7 +2,7 @@
 body{ 
     display: flex;
     align-items: center;
-    background-color: #a1c349;
+    background-color: #87a330;
 
 }
 
@@ -12,12 +12,12 @@ body{
     align-items: center;
     justify-content: space-evenly;
     height: 400;
-    border:#272640 solid;
+    border: f3c053 solid;
     border-radius: 15px;
     margin-top: 8%;
     margin-left: 40%;
-    background-color: #3e1f47;
-    box-shadow: 0 0 10px #312244;
+    background-color: #f3c053;
+    box-shadow: 0 0 10px #f9a03f;
 }
 
 .input {
@@ -40,11 +40,11 @@ button {
 
 
 .result {
-    background-color: #CEA9DA;
+    background-color: #eb5e28;
     display: flex;
     margin: auto;
     border: #0b090a;
     border-radius: 5px;
-    padding:20;
+    height: 70;
     width: 200;
 }
